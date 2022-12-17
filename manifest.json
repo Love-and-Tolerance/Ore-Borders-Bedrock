@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "§eMLP:FiM-inspired!\n§r§bLove-Tolerance.com",
+    "min_engine_version": [
+      1,
+      16,
+      20
+    ],
+    "name": "Love & Tolerance (Ore Borders)",
+    "uuid": "f22b0370-2b23-4a00-9a9f-ea2b6fa4464e",
+    "version": [
+      0,
+      0,
+      1
+    ]
+  },
+  "modules": [
+    {
+      "description": "§eMLP:FiM-inspired!\n§r§bLove-Tolerance.com",
+      "type": "resources",
+      "uuid": "d0efc43e-8a3e-403a-8a4d-66c35b8740f1",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
