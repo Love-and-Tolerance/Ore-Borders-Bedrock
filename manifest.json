@@ -10,9 +10,9 @@
     "name": "Love & Tolerance (Ore Borders)",
     "uuid": "f22b0370-2b23-4a00-9a9f-ea2b6fa4464e",
     "version": [
+      1,
       0,
-      0,
-      1
+      0
     ]
   },
   "modules": [
@@ -21,9 +21,9 @@
       "type": "resources",
       "uuid": "d0efc43e-8a3e-403a-8a4d-66c35b8740f1",
       "version": [
+        1,
         0,
-        0,
-        1
+        0
       ]
     }
   ]
